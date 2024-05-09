@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ### DATE: 
 
 ## AIM:
@@ -59,9 +59,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/Hemanath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151807176/56a95376-402e-4434-9004-d5b324dcbe10)
+![image](https://github.com/Hemanath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151807176/2c648522-9d89-4478-828b-ec070b245264)
+![image](https://github.com/Hemanath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151807176/87de6256-1c6a-4635-81f4-2703e2cbd157)
+![image](https://github.com/Hemanath08/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151807176/70f57788-d2bd-4a16-8391-21dbbf48dfd1)
 
-### Name: 
-### Register Number:
+### Name: K.Hemanath
+### Register Number: 212223100012
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
